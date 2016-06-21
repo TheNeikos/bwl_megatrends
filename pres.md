@@ -3,7 +3,7 @@ author:
     - Mario Krehl
     - Marcel Müller
 title: Megatrends - New Work
-subtitle: Von Fleiß nach Preis
+subtitle: Fleiß zu welchem Preis?
 theme: Furtwangen
 date: \today
 lang: german
@@ -33,7 +33,7 @@ Inhalt
 
 - Durch die Globalisierung hat eine Firma Konkurrenz aus der ganzen Welt
 - Eine Globale Firma braucht also Innovation und Forschung um am Vorspann zu
-    bleiben
+  bleiben
 - Durch das Internet ist es möglich den ganzen Tag produktiv zu bleiben
 - Eine andere Möglichkeit ist es Neue Firmen aufzukaufen (Startups)
 
@@ -44,7 +44,19 @@ Inhalt
 - Wird benutzt um zum Beispiel schneller ein Höheres Gehalt zu erhalten
 - Oft *remote* also nicht in einem Büro
 
-# **Green Jobs**
+# Green Jobs
 
-- Neue Richtlininen für
+- Neue Richtlininen für den Umweltschutz zwingen Firmen änderungen in deren
+  Prozesse
+- Dies kann neue Arbeit erstellen aber auch existierende Abschaffen
+
+# Fachkraft Mangel
+
+- Eine Globalisierte Gesellschaft versucht die besten (Preis/Leistung)
+  Produkte zu bekommen
+- Dies übt Druck auf Lokale sowie Globale Hersteller aus da diese nun
+  miteinander konkurrieren
+- Eine Möglichkeit dies auszuhalten ist durch Innovation und Verfeinerung des
+  Arbeitsprozesses
+- Dies Braucht wiederum gute Fachkräfte in spezialisierten Bereichen
 
